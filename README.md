@@ -1,12 +1,12 @@
 # 🧠 Abstractive Summarization Using GRU & LSTM
 
-This project implements and compares GRU and LSTM-based sequence-to-sequence models with attention mechanisms for the task of **abstractive text summarization**, using the [WikiHow dataset]. It was developed as part of the **CS521 – Statistical NLP** course at the University of Illinois Chicago.
+This project implements and compares GRU and LSTM-based sequence-to-sequence models with attention mechanisms for the task of **abstractive text summarization**, using the WikiHow dataset.
 
 ---
 
 ## 🔍 Project Highlights
 
-- 📘 **Models:** GRU and LSTM encoder-decoder architectures with Bahdanau-style attention
+- 📘 **Models:** GRU and LSTM encoder-decoder architectures with attention
 - 📊 **Evaluation:** ROUGE-1 and ROUGE-L scores
 - 🧪 **Dataset:** WikiHow Abstractive Summarization Dataset (230K+ pairs)
 - 📈 **Results:** LSTM with attention outperforms GRU in both coherence and ROUGE metrics
