@@ -14,7 +14,7 @@ This project implements and compares GRU and LSTM-based sequence-to-sequence mod
 
 ---
 
-## 🗂️ Repo Structure
+## 🗂️ Repository Structure
 
 ```
 📁 notebooks/          - GRU & LSTM model development and outputs
@@ -56,5 +56,5 @@ python evaluate.py # To evaluate the model
 
 ## 🤝 Authors
 
-- [Anuraag Reddy Kommareddy](mailto:akomma3@uic.edu)  
+- [Anuraag Reddy Kommareddy](mailto:akomm@uic.edu)  
 - [Nirmal Kumar Varma Vegesna](mailto:nveges2@uic.edu)
