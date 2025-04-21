@@ -26,7 +26,7 @@ This project implements and compares GRU and LSTM-based sequence-to-sequence mod
 📄 README.md           - Project overview and setup instructions
 ```
 
-## 📈 Example Results
+# 📈 Example Results
 
 | Model             | ROUGE-1 | ROUGE-2 | ROUGE-L |
 |------------------|---------|---------|---------|
