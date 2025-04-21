@@ -1,5 +1,5 @@
 
-# 🧠 Abstractive Summarization Using GRU & LSTM
+# 🧠Abstractive Summarization Using GRU & LSTM
 
 This project implements and compares GRU and LSTM-based sequence-to-sequence models with attention mechanisms for the task of **abstractive text summarization**, using the WikiHow dataset.
 
