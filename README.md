@@ -5,7 +5,7 @@ This project implements and compares GRU and LSTM-based sequence-to-sequence mod
 
 ---
 
-## 🔍 Project Highlights
+## 🔍  Project Highlights
 
 - 📘 **Models:** GRU and LSTM encoder-decoder architectures with attention
 - 📊 **Evaluation:** ROUGE-1, ROUGE-2 and ROUGE-L scores
